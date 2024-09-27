@@ -6,7 +6,7 @@ Meu nome é Thiago
 - Estou me desenvolvendo na linguagem JavaScript
 - Utlizo esse espaço pra minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você entrar em contato comigo
+### Como você entrar em contato comigo
 
 thiago.vasconcelos.souza@escola.pr.gov
 
